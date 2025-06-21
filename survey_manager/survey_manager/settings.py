@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'surveys',
-    'crspy_forms,'
+    'crispy_forms',
     'crispy_bootstrap5',
 ]
 
